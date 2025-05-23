@@ -1,0 +1,25 @@
+{
+    "name": "e",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "FF": "github:1lormike/somethingrandom#5dd11d4188f7df9535fc79139c14f4b87c1e2781"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
